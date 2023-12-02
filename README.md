@@ -1,33 +1,33 @@
-# Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
+# GitHub Project - React and Webpack
 
-Bem-vindo ao repositório oficial do projeto GitHub que abrange diversos exercícios e projetos relacionados a React e Webpack. Este repositório é uma coleção de práticas, projetos e fundamentos relacionados ao desenvolvimento de aplicações web com estas tecnologias.
+Welcome to the official GitHub repository that covers various exercises and projects related to React and Webpack. This repository is a collection of practices, projects, and fundamentals related to web development with these technologies.
 
-## Estrutura do Projeto
+## Project Structure
 
-- **exercicios_react**: Contém uma variedade de exercícios práticos para aprimorar suas habilidades com React.
+- **exercicios_react**: Contains a variety of practical exercises to enhance your skills with React.
   
-- **exercicios_webpack**: Oferece exercícios específicos para consolidar conhecimentos sobre o Webpack, uma ferramenta de construção de módulos para JavaScript.
+- **exercicios_webpack**: Provides specific exercises to consolidate knowledge about Webpack, a module bundler for JavaScript.
 
-- **fundamentos-react**: Explora os fundamentos essenciais do React, incluindo conceitos-chave e boas práticas de desenvolvimento.
+- **fundamentos-react**: Explores essential React fundamentals, including key concepts and development best practices.
 
-- **hooks**: Demonstração e prática do uso de hooks do React, como useState, useEffect, useContext, entre outros.
+- **hooks**: Demonstration and practice of using React hooks, such as useState, useEffect, useContext, among others.
 
-- **my-money-app**: Um projeto de aplicativo de controle financeiro desenvolvido em React.
+- **my-money-app**: A financial control app project developed in React.
 
-- **navegacao**: Aborda a implementação de navegação em aplicações React, utilizando bibliotecas populares como React Router.
+- **navegacao**: Addresses the implementation of navigation in React applications, using popular libraries like React Router.
 
-- **novos-projetos**: Espaço dedicado para novos projetos e experimentações, promovendo a criatividade e inovação.
+- **novos-projetos**: Space dedicated to new projects and experiments, promoting creativity and innovation.
 
-- **redux-simples**: Projeto simples para entender os conceitos básicos do Redux, um gerenciador de estado para aplicações JavaScript.
+- **redux-simples**: Simple project to understand the basic concepts of Redux, a state management tool for JavaScript applications.
 
-- **todo-app**: Um aplicativo de lista de tarefas (To-Do) desenvolvido com React para exemplificar a construção de aplicações interativas.
+- **todo-app**: A to-do list app developed with React to exemplify the construction of interactive applications.
 
-## Contribuição
+## Contribution
 
-Sinta-se à vontade para contribuir com novos exercícios, projetos ou melhorias em qualquer parte deste repositório. Basta seguir os passos usuais para contribuição em projetos do GitHub: fork, branch, commit e pull request.
+Feel free to contribute with new exercises, projects, or improvements to any part of this repository. Just follow the usual steps for contributing to GitHub projects: fork, branch, commit, and pull request.
 
-## Licença
+## License
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE.md` para obter mais detalhes.
+This project is distributed under the MIT license. Refer to the `LICENSE.md` file for more details.
 
-Obrigado por fazer parte deste projeto! Happy coding! 🚀
+Thanks for being part of this project! Happy coding! 🚀😊
