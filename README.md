@@ -1,6 +1,6 @@
-# GitHub Project - React and Webpack
+# React and Redux Course
 
-Welcome to the official GitHub repository that covers various exercises and projects related to React and Webpack. This repository is a collection of practices, projects, and fundamentals related to web development with these technologies.
+Welcome to the repository that covers various exercises and projects related to React, Redux and Webpack. This repository is a collection of practices, projects, and fundamentals related to web development with these technologies.
 
 ## Project Structure
 
